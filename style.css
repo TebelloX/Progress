@@ -11,3 +11,9 @@ body {
     justify-content: center;
     overflow: hidden;
 }
+
+.container {
+    display: flex;
+
+    width: 90vw;
+}
