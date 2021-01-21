@@ -6,7 +6,7 @@ const circles = document.querySelectorAll(".circle");
 let currentActive = 1;
 
 next.addEventListener("click", () => {
-  curActive++;
+  currentActive++;
 
   console.log(currentActive);
 });
