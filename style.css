@@ -19,9 +19,9 @@ body {
 }
 
 .progress-container{
-
+    display: flex;
 }
 
 .progress{
-    display: flex;
+    
 }
