@@ -33,4 +33,8 @@ function update() {
       circle.classList.remove("active");
     }
   });
+
+  const actives = document.querySelector(".active");
+
+  console.log(actives.length);
 }
