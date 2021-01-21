@@ -21,7 +21,7 @@ body {
 .progress-container{
     display: flex;
     justify-content: space-between;
-    align-items
+    margin-bottom: 30px;
 }
 
 .progress{
