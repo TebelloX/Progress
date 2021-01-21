@@ -23,5 +23,5 @@ body {
 }
 
 .progress{
-    
+    display: flex;
 }
